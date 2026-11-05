@@ -1,0 +1,18 @@
+{
+  "source": "CDC BRFSS 2023",
+  "url": "https://www.cdc.gov/brfss/annual_data/2023/files/LLCP2023XPT.zip",
+  "raw_rows": 433323,
+  "selected_columns": [
+    "CVDINFR4",
+    "_AGEG5YR",
+    "SEXVAR",
+    "_BMI5",
+    "BPHIGH6",
+    "TOLDHI3",
+    "DIABETE4",
+    "_SMOKER3",
+    "EXERANY2",
+    "_LLCPWT"
+  ],
+  "sha256_zip": "d1ab80e4806a1d07bd3e40ec78c971ad9ff920f3ea5f6049780aeaa41ff31f43"
+}

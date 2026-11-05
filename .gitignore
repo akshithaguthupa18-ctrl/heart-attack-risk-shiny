@@ -1,0 +1,6 @@
+.Rhistory
+.RData
+.Rproj.user/
+raw/
+renv/library/
+renv/staging/
